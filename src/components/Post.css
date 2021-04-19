@@ -1,0 +1,12 @@
+.postBox {
+	background-color: rgb(100, 12, 121);
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.postBox h2 {
+	text-transform: capitalize;
+}
+.postBox p::first-letter {
+	text-transform: capitalize;
+}
